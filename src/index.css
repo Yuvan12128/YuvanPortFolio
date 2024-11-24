@@ -1,0 +1,21 @@
+.s-color{
+    color: red;
+}
+.container-nav{
+    background-color: black;
+    color: aliceblue;
+    
+}
+.s-box{
+    background-color: black;
+    color: aliceblue;
+    padding: 30px;
+    text-align: center;
+    
+}
+.s-box i{
+    font-size: 50px;
+}
+.contact-box-main{
+    margin-top: 10%;
+}
